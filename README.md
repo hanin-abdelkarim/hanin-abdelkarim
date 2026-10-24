@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Hanin Abdelkarim 👋
 
-<!--
-**hanin-abdelkarim/hanin-abdelkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student @ Zewail City of Science and Technology
+💡 Passionate about problem solving and building smart systems
 
-Here are some ideas to get you started:
+### 🛠️ Languages I know
+- Python
+- C++
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**[Smart City Traffic Management System](https://github.com/hanin-abdelkarim/Smart-City-Traffic-Management)**
+A C++ traffic simulation that optimizes city traffic using custom-built Data Structures (Graph, PriorityQueue, Queue) from scratch.
+
+### 📫 Let's Connect
+- GitHub: @hanin-abdelkarim
+- Email:haninabdo678@gamil.com
